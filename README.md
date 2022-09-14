@@ -1,2 +1,2 @@
-# Train-Station-Passanger-Counter
+# Train-Station-Passenger-Counter
 A simple passanger counter created with basic HTML, CSS &amp; JAVASCRIPT.
